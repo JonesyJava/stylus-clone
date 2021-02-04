@@ -1,0 +1,9 @@
+.stylus-img{
+    background-image: url(https://www.business.com/images/content/5e1/7384d7b437414708b456a/1500-0-);
+    height: 80vh;
+    background-size: cover;
+}
+
+.bg-black{
+    background-color: rgb(52, 52, 122);
+}
